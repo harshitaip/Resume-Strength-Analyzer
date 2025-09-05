@@ -1,0 +1,13 @@
+node_modules
+dist
+uploads
+.env
+.env.*
+coverage
+
+# Next.js build files
+.next/
+out/
+
+# Local Netlify folder
+.netlify
